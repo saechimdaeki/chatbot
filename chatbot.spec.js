@@ -1,4 +1,4 @@
-const pingping= require('./testbot');
+var pingping= require('./test.bot');
 
 describe('테스트를 시작합니다.' ,function(){
 	it('기본메시지 -> 안녕하세요. 영화,밥,놀이중에 말씀해주세요.', function(done){

@@ -21,4 +21,3 @@ const pingpong = function(sendtext){
 	});
 };
 
-module.exports = pingpong;
