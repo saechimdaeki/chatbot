@@ -12,9 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1574054997,,"wq"
+|2,0,1574063652,,"wq"
 :q!
-|2,0,1574054974,,"q!"
+|2,0,1574063476,,"q!"
+:ㅈㅂ
+|2,0,1574063453,,"ㅈㅂ"
 :Q!
 |2,0,1574054845,,"Q!"
 :Wq
@@ -34,30 +36,112 @@
 |3,1,36,0,1,0,1552375060,"#"
 
 # File marks:
-'0  1  29  ~/chatbot.spec.js
-|4,48,1,29,1574054997,"~/chatbot.spec.js"
-'1  1  24  ~/chatbot.spec.js
-|4,49,1,24,1574054981,"~/chatbot.spec.js"
-'2  1  0  ~/index.js
-|4,50,1,0,1574054974,"~/index.js"
-'3  1  2  ~/chatbot.spec.js
-|4,51,1,2,1574054941,"~/chatbot.spec.js"
-'4  1  2  ~/chatbot.spec.js
-|4,52,1,2,1574054941,"~/chatbot.spec.js"
-'5  23  0  ~/testbot.js
-|4,53,23,0,1574054913,"~/testbot.js"
-'6  1  0  ~/chatbot.js
-|4,54,1,0,1574054899,"~/chatbot.js"
-'7  1  24  ~/chatbot.spec.js
-|4,55,1,24,1574054858,"~/chatbot.spec.js"
-'8  1  24  ~/chatbot.spec.js
-|4,56,1,24,1574054858,"~/chatbot.spec.js"
-'9  1  24  ~/chatbot.spec.js
-|4,57,1,24,1574054858,"~/chatbot.spec.js"
+'0  66  52  ~/test.js
+|4,48,66,52,1574063652,"~/test.js"
+'1  15  14  ~/test.js
+|4,49,15,14,1574063617,"~/test.js"
+'2  15  14  ~/test.js
+|4,50,15,14,1574063617,"~/test.js"
+'3  69  2  ~/test.js
+|4,51,69,2,1574063476,"~/test.js"
+'4  69  2  ~/test.js
+|4,52,69,2,1574063476,"~/test.js"
+'5  69  2  ~/test.js
+|4,53,69,2,1574063476,"~/test.js"
+'6  69  2  ~/test.js
+|4,54,69,2,1574063476,"~/test.js"
+'7  69  2  ~/test.js
+|4,55,69,2,1574063456,"~/test.js"
+'8  69  2  ~/test.js
+|4,56,69,2,1574063456,"~/test.js"
+'9  69  2  ~/test.js
+|4,57,69,2,1574063456,"~/test.js"
 
 # Jumplist (newest first):
+-'  66  52  ~/test.js
+|4,39,66,52,1574063652,"~/test.js"
+-'  15  14  ~/test.js
+|4,39,15,14,1574063626,"~/test.js"
+-'  15  14  ~/test.js
+|4,39,15,14,1574063617,"~/test.js"
+-'  69  2  ~/test.js
+|4,39,69,2,1574063531,"~/test.js"
+-'  69  2  ~/test.js
+|4,39,69,2,1574063531,"~/test.js"
+-'  69  2  ~/test.js
+|4,39,69,2,1574063476,"~/test.js"
+-'  69  2  ~/test.js
+|4,39,69,2,1574063456,"~/test.js"
+-'  1  0  ~/test.js
+|4,39,1,0,1574062850,"~/test.js"
+-'  1  0  ~/test.js
+|4,39,1,0,1574062850,"~/test.js"
+-'  1  0  ~/test.js
+|4,39,1,0,1574062850,"~/test.js"
+-'  1  0  ~/test.js
+|4,39,1,0,1574062850,"~/test.js"
 -'  1  29  ~/chatbot.spec.js
 |4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  29  ~/chatbot.spec.js
+|4,39,1,29,1574054997,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
+-'  1  24  ~/chatbot.spec.js
+|4,39,1,24,1574054981,"~/chatbot.spec.js"
 -'  1  24  ~/chatbot.spec.js
 |4,39,1,24,1574054981,"~/chatbot.spec.js"
 -'  1  0  ~/index.js
@@ -68,196 +152,124 @@
 |4,39,1,0,1574054974,"~/index.js"
 -'  1  0  ~/index.js
 |4,39,1,0,1574054974,"~/index.js"
--'  1  2  ~/chatbot.spec.js
-|4,39,1,2,1574054941,"~/chatbot.spec.js"
--'  1  2  ~/chatbot.spec.js
-|4,39,1,2,1574054941,"~/chatbot.spec.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  23  0  ~/testbot.js
-|4,39,23,0,1574054913,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054904,"~/testbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  0  ~/chatbot.js
-|4,39,1,0,1574054899,"~/chatbot.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  1  24  ~/chatbot.spec.js
-|4,39,1,24,1574054858,"~/chatbot.spec.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
--'  11  0  ~/testbot.js
-|4,39,11,0,1574054847,"~/testbot.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1574054974,"~/index.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/test.js
+	*	1574063651	0
+	"	66	52
+	^	66	53
+	.	66	52
+	+	69	2
+	+	66	52
+	+	7	8
+	+	66	52
 
 > ~/chatbot.spec.js
 	*	1574054997	0
