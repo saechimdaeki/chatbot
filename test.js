@@ -21,7 +21,9 @@ rtm.on('ready', async() => {
 });
 rtm.on('message' , function(message){
 	var text=message.text;
+	console.log(text, message.user);
 	if(message.user ==tuser){
+		console.log(text,message.user);
 		switch(status){
 			case 1:
 				if(text != "안녕하세요.영화,밥,놀이중에말씀해주세요"){
@@ -34,7 +36,7 @@ rtm.on('message' , function(message){
 				break;
 			case 2:
 				console.log("보낸메시지:영화");
-				if(text!="취향에맞춘영화를추천해드릴게요"){
+				if(text!="취향에맞는영화를추천해드릴게요"){
 					console.log("테스트실패:영화");
 					process.exit(1);
 				}
