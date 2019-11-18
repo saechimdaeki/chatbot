@@ -1,7 +1,6 @@
 require('dotenv').config();
 const {RTMClient} = require('@slack/rtm-api');
-
-var			 token= process.env.SLACK_TOKEN;
+const token= process.env.SLACK_TOKEN;
 
 var rtm= new RTMClient(token);
 
@@ -24,6 +23,6 @@ rtm.on('message' , function(message){
 			rtm.sendMessage('고만해' ,channel);
 			break;
 		default:
-			rtm.sendMessage('안녕하세요. 영화, 밥 , 놀이 중에말씀하세여' ,channel);
+			rtm.sendMessage('안녕하세요.영화,밥,놀이중에말씀해주세요' ,channel);
 	}
 });
