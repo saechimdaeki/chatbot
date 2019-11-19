@@ -9,7 +9,7 @@ const tuser = process.env.TESTING_USER;
 const {RTMClient , LogLevel} =require('@slack/rtm-api');
 
 const rtm = new RTMClient(token, {
-	logLevel: LogLevel.DEBUG,
+//	logLevel: LogLevel.DEBUG,
 });
 
 rtm.start().catch(console.error);
