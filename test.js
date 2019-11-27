@@ -23,7 +23,7 @@ rtm.on('message' , function(message){
 	var text=message.text;
 	console.log(text, message.user);
 	if(message.user ==tuser){
-		console.log(text,message.user);
+//		console.log(text,message.user);
 		switch(status){
 			case 1:
 				if(text != "안녕하세요.영화,밥,놀이중에말씀해주세요"){
