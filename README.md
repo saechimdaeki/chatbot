@@ -5,3 +5,9 @@
 ##### 링크:
 
 - https://app.slack.com/client/TQ57499K3/GQMQZ9B24/details/members
+
+## 결과 창
+
+![pr](./pr.JPG)
+
+![sr](./sr.JPG)
